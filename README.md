@@ -1,5 +1,4 @@
-# Power-BI-Dashboards
-Repository for all Power BI Dashboards
-Repositório para todos os Dasboards de Power BI
+
+Repository for all of my Power BI Dashboards / Repositório para todos os meus Dasboards de Power BI
 
 
